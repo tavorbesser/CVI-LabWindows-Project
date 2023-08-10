@@ -1,0 +1,44 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char **argv);"
+
+[QuitFunc]
+Class="Function"
+Prototype="int QuitFunc(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[QuitCallback2]
+Class="Function"
+Prototype="int QuitCallback2(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[QuitCallback3]
+Class="Function"
+Prototype="int QuitCallback3(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ConnectFunc]
+Class="Function"
+Prototype="int ConnectFunc(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Load_Data]
+Class="Function"
+Prototype="int Load_Data(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Open_Data_Bars]
+Class="Function"
+Prototype="void Open_Data_Bars(int menuBar, int menuItem, void *callbackData, int panel);"
+
+[Open_Graph_Panel]
+Class="Function"
+Prototype="void Open_Graph_Panel(int menuBar, int menuItem, void *callbackData, int panel);"
+
+[DisconnectFunc]
+Class="Function"
+Prototype="int DisconnectFunc(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Save_Temp_GraphFunc]
+Class="Function"
+Prototype="int Save_Temp_GraphFunc(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Save_Humi_GraphFunc]
+Class="Function"
+Prototype="int Save_Humi_GraphFunc(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+

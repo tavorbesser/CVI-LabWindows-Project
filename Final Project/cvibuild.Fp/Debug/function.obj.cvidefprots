@@ -1,0 +1,16 @@
+[ReadDataFromComPort]
+Class="Function"
+Prototype="void ReadDataFromComPort(double *temp_arr, double *t, double dt, int i, int COM);"
+
+[file]
+Class="Function"
+Prototype="void file();"
+
+[writedata]
+Class="Function"
+Prototype="void writedata(double *temp_arr, double *t, int i);"
+
+[ProcessActiveXError]
+Class="Function"
+Prototype="void ProcessActiveXError(int error);"
+

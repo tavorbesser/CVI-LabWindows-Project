@@ -1,0 +1,1 @@
+-force-include-file "Fp.c";"c:\Users\tavor\OneDrive\שולחן העבודה\תבור\לימודים\שנה ג\סמסטר ב\יישומי המחשב\Final Project\Fp.c" 
