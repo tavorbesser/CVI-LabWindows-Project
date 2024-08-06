@@ -88,14 +88,5 @@ This project aims to create a user-friendly interface for monitoring environment
 - Correctly parsing and displaying real-time data.
 - Designing an intuitive and user-friendly GUI.
 
-## Gallery
 
-### Initial Breadboard Setup
-![Initial Breadboard Setup](path/to/image1.png)
-
-### 3D Printed Enclosure
-![3D Printed Enclosure](path/to/image2.png)
-
-### Final Assembly
-![Final Assembly](path/to/image3.png)
 
